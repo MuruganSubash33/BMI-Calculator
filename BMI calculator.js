@@ -23,7 +23,7 @@ else if((bmi>20)&&(bmi<=24))
     {
         alert("obsiety")
     }
-    else if((bmi>28) && (bmi<=32))
+    else if((bmi>28) && (bmi<=100))
             {
                 alert("severe obsiety")
             }
